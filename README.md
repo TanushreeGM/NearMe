@@ -136,12 +136,12 @@ shop.html
 
 ## OUTPUT
 
-![alt text](<Screenshot (109).png>)
-![alt text](<Screenshot (110).png>)
-![alt text](<Screenshot (111).png>)
-![alt text](<Screenshot (112).png>)
-![alt text](<Screenshot (113).png>)
-![alt text](<Screenshot (114).png>)
+![alt text](<Screenshot (116)-1.png>)
+![alt text](<Screenshot (117).png>)
+![alt text](<Screenshot (118).png>)
+![alt text](<Screenshot (119).png>)
+![alt text](<Screenshot (120)-1.png>)
+![alt text](<Screenshot (121).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
