@@ -36,8 +36,8 @@ map.html
         <title>City Map</title>
     </head>
     <body align="center">
-        <h1><font color="darkblue">Ulhasnagar-2</font></h2>
-        <h3><font color=lightblue">Tanushree G (25012099)</font></h3>
+        <h1><font color="darkblue">Ulhasnagar-2</font></h1>
+        <h3><font color="blue">Tanushree G (25012099)</font></h3>
         <br>
         <img src="map.png" usemap="#nagar">
         <map name="nagar">
